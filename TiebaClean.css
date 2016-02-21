@@ -1,0 +1,3 @@
+/*Inline Random Ads*/
+#thread_list > li.thread_top_list_folder~li:not(.j_thread_list)
+{display: none !important;}
